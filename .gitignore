@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Old deployment config (not needed for GitHub Pages)
+netlify.toml
